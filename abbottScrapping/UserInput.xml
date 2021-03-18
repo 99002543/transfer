@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserInput>
+	<Email>
+		<!--This is the CC content of outlook email-->
+		<CC>
+			<value>Mahesh.pati@ltts.com</value>
+		</CC>
+		<!--This is the TO content of outlook email-->
+		<TO>
+			<value>Mahesh.pati@ltts.com</value>
+		</TO>
+		<!--This is the FROM content of outlook email-->
+		<FROM>
+			<value>Mahesh.pati@ltts.com</value>
+		</FROM>
+	</Email>
+	<Database>
+		<!--This is the driver name-->
+		<DriverName>
+			<value>SQL Server</value>
+		</DriverName>
+		<!--This is the server name-->
+		<ServerName>
+			<value>MAHESHLAPY\SQLEXPRESS</value>
+		</ServerName>
+		<!--This is the default Database name - Do not change-->
+		<DatabaseName>
+			<value>master</value>
+		</DatabaseName>
+	</Database>
+	<!--This is the Database table name-->
+	<TableName>
+		<value>AbbottJobDetails5</value>
+	</TableName>
+	<!--This is the path(M:\ProjectRGATechPark\MyWorkForAlcon) and name(\ABBOTT-Report-) of the excel report file-->
+	<ExcelReportFileName>
+		<value>M:\ProjectRGATechPark\MyWorkForAlcon\ABBOTT-Report-</value>
+	</ExcelReportFileName>
+</UserInput>
